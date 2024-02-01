@@ -1,0 +1,1 @@
+This project showcases a user interface built with ReactJS to display the availability of top courses. It provides users with an intuitive interface to filter through a collection of popular courses across various subjects. This application aims to enhance the user experience by presenting course information in a clear and organized manner.
